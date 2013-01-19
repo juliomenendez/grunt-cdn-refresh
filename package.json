@@ -1,0 +1,39 @@
+{
+  "name": "grunt-cdn-refresh",
+  "description": "Refresh content on a CDN.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/juliomenendez/grunt-cdn-refresh",
+  "author": {
+    "name": "Julio C. Menendez",
+    "email": "me@juliocarlosmenendez.com",
+    "url": "http://juliocarlosmenendez.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliomenendez/grunt-cdn-refresh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juliomenendez/grunt-cdn-refresh/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/juliomenendez/grunt-cdn-refresh/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "0.1.1rc6",
+    "grunt": "0.4.0rc6",
+    "akamai": "~0.1.0"
+  },
+  "keywords": [
+    "gruntplugin",
+    "akamai",
+    "cdn",
+    "refresh"
+  ]
+}
