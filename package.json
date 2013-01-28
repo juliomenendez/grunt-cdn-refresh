@@ -1,7 +1,7 @@
 {
   "name": "grunt-cdn-refresh",
   "description": "Refresh content on a CDN.",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/juliomenendez/grunt-cdn-refresh",
   "author": {
     "name": "Julio C. Menendez",
@@ -25,7 +25,7 @@
   "engines": {
     "node": ">= 0.8.0"
   },
-  "devDependencies": {
+  "dependencies": {
     "grunt-contrib-jshint": "0.1.1rc6",
     "grunt": "0.4.0rc6",
     "akamai": "~0.1.0"
