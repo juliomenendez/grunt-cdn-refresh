@@ -1,7 +1,7 @@
 {
   "name": "grunt-cdn-refresh",
   "description": "Refresh content on a CDN.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/juliomenendez/grunt-cdn-refresh",
   "author": {
     "name": "Julio C. Menendez",
