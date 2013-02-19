@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "grunt-contrib-jshint": "0.1.1rc6",
-    "grunt": "0.4.0rc6",
+    "grunt": "~0.4.0",
     "akamai": "~0.1.0"
   },
   "keywords": [
